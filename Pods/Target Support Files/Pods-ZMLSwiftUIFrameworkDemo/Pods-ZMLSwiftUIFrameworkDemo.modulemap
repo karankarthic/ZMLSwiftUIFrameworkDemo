@@ -1,0 +1,6 @@
+framework module Pods_ZMLSwiftUIFrameworkDemo {
+  umbrella header "Pods-ZMLSwiftUIFrameworkDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
