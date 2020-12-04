@@ -24,9 +24,11 @@ PODS:
     - SwiftSoup (= 2.2.0)
     - ZMLKit (= 0.0.23)
   - ZMLKit (0.0.23)
+  - ZMLSwiftUIFramework (0.0.1)
 
 DEPENDENCIES:
   - ZCCoreFramework
+  - ZMLSwiftUIFramework
 
 SPEC REPOS:
   trunk:
@@ -39,6 +41,7 @@ SPEC REPOS:
     - SwiftSoup
     - ZCCoreFramework
     - ZMLKit
+    - ZMLSwiftUIFramework
 
 SPEC CHECKSUMS:
   PhoneNumberKit: adffe4e128af1918386e09e7421d3d851a2987af
@@ -50,7 +53,8 @@ SPEC CHECKSUMS:
   SwiftSoup: 230991361c5ba249d140161860a3864a28b63860
   ZCCoreFramework: 06c920de9cae91b3ffc8e6560dd63cf611f0c578
   ZMLKit: 604acac9cfd602d59b4deb0983c8c6f3f198c493
+  ZMLSwiftUIFramework: 6dbde2d4afcb47276a9747b5b8be338cd6727f02
 
-PODFILE CHECKSUM: 7c96c079807b368a17c62a0a3f11f870e5960521
+PODFILE CHECKSUM: 760b0f13d627a79f58cd5d503920aec1d04d3297
 
 COCOAPODS: 1.10.0

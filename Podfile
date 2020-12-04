@@ -7,6 +7,7 @@ target 'ZMLSwiftUIFrameworkDemo' do
 
   # Pods for ZMLSwiftUIFrameworkDemo
 	 pod 'ZCCoreFramework'
+	 pod 'ZMLSwiftUIFramework'
 
   target 'ZMLSwiftUIFrameworkDemoTests' do
     inherit! :search_paths
