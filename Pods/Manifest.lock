@@ -1,60 +1,20 @@
 PODS:
-  - PhoneNumberKit (3.1.0):
-    - PhoneNumberKit/PhoneNumberKitCore (= 3.1.0)
-    - PhoneNumberKit/UIKit (= 3.1.0)
-  - PhoneNumberKit/PhoneNumberKitCore (3.1.0)
-  - PhoneNumberKit/UIKit (3.1.0):
-    - PhoneNumberKit/PhoneNumberKitCore
-  - PromisesObjC (1.2.8)
-  - PromisesSwift (1.2.8):
-    - PromisesObjC (= 1.2.8)
-  - ReachabilitySwift (4.3.0)
-  - SQLite.swift (0.11.5):
-    - SQLite.swift/standard (= 0.11.5)
-  - SQLite.swift/standard (0.11.5)
-  - SQLite.Wrapper (0.0.22):
-    - PromisesSwift (~> 1.2.8)
-  - SwiftSoup (2.2.0)
-  - ZCCoreFramework (0.0.31):
-    - PhoneNumberKit (= 3.1)
-    - PromisesSwift (= 1.2.8)
-    - ReachabilitySwift (= 4.3.0)
-    - SQLite.swift (= 0.11.5)
-    - SQLite.Wrapper (= 0.0.22)
-    - SwiftSoup (= 2.2.0)
-    - ZMLKit (= 0.0.23)
   - ZMLKit (0.0.23)
-  - ZMLSwiftUIFramework (0.0.1)
+  - ZMLSwiftUIFramework (0.0.9):
+    - ZMLKit (= 0.0.23)
 
 DEPENDENCIES:
-  - ZCCoreFramework
-  - ZMLSwiftUIFramework
+  - ZMLSwiftUIFramework (= 0.0.9)
 
 SPEC REPOS:
   trunk:
-    - PhoneNumberKit
-    - PromisesObjC
-    - PromisesSwift
-    - ReachabilitySwift
-    - SQLite.swift
-    - SQLite.Wrapper
-    - SwiftSoup
-    - ZCCoreFramework
     - ZMLKit
     - ZMLSwiftUIFramework
 
 SPEC CHECKSUMS:
-  PhoneNumberKit: adffe4e128af1918386e09e7421d3d851a2987af
-  PromisesObjC: c119f3cd559f50b7ae681fa59dc1acd19173b7e6
-  PromisesSwift: 37bad6f4daddb02f7c9c531efe91e8b21c13ee2f
-  ReachabilitySwift: 408477d1b6ed9779dba301953171e017c31241f3
-  SQLite.swift: 6e5356850bb1791459f8c16d6ee9195b28714a2e
-  SQLite.Wrapper: 94a23c5009a79e3d639bc0279749e527e647a3f6
-  SwiftSoup: 230991361c5ba249d140161860a3864a28b63860
-  ZCCoreFramework: 06c920de9cae91b3ffc8e6560dd63cf611f0c578
   ZMLKit: 604acac9cfd602d59b4deb0983c8c6f3f198c493
-  ZMLSwiftUIFramework: 6dbde2d4afcb47276a9747b5b8be338cd6727f02
+  ZMLSwiftUIFramework: 5f5216c4d42b3a91a942befaa271edcce3e2779d
 
-PODFILE CHECKSUM: 760b0f13d627a79f58cd5d503920aec1d04d3297
+PODFILE CHECKSUM: 61b448c37c2aadae231b701bb5a026dc93f0128c
 
 COCOAPODS: 1.10.0

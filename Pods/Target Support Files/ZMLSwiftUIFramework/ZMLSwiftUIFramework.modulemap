@@ -1,0 +1,6 @@
+framework module ZMLSwiftUIFramework {
+  umbrella header "ZMLSwiftUIFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

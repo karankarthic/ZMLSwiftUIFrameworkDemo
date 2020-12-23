@@ -6,16 +6,6 @@ target 'ZMLSwiftUIFrameworkDemo' do
   use_frameworks!
 
   # Pods for ZMLSwiftUIFrameworkDemo
-	 pod 'ZCCoreFramework'
-	 pod 'ZMLSwiftUIFramework'
-
-  target 'ZMLSwiftUIFrameworkDemoTests' do
-    inherit! :search_paths
-    # Pods for testing
-  end
-
-  target 'ZMLSwiftUIFrameworkDemoUITests' do
-    # Pods for testing
-  end
+	 pod 'ZMLSwiftUIFramework','0.0.9'
 
 end
